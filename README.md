@@ -64,10 +64,6 @@ The parser is optimized for standard Windows command line directory listings or 
 *   **Performance:** Uses a virtual DOM approach for rendering lists and grids to handle large text files efficiently.
 *   **Privacy:** **100% Local.** The text file is parsed in your browser's memory. No data is ever uploaded to a server.
 
-## 🤝 Contributing
-
-Feel free to modify the CSS variables in the `<style>` section to change the color scheme, or adjust the `parseTextFile` function to support different log formats.
-
 ## 📜 License
 
 This project is open source and available under the [MIT License](LICENSE)
