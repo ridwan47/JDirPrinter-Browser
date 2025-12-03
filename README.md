@@ -1,4 +1,3 @@
-```markdown
 # 📂 JDirPrinter Browser (Text Explorer)
 
 > **Transform static text directory logs into an interactive, navigable file explorer.**
