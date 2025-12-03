@@ -1,9 +1,3 @@
-Here is a professional `README.md` tailored for the **JDirPrinter Browser** application.
-
-You can save this as `README.md` in the same folder as your HTML file.
-
-***
-
 ```markdown
 # 📂 JDirPrinter Browser (Text Explorer)
 
